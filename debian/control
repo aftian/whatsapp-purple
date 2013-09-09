@@ -1,11 +1,12 @@
 Source: pidgin-whatsapp
 Section: net
 Priority: optional
-Maintainer: David Guillen Fandos <david@davidgf.net>
+Maintainer: Rahman Yusri Aftian <aftian@di.blankon.in>
+XSBC-Original-Maintainer: David Guillen Fandos <david@davidgf.net>
 DM-Upload-Allowed: yes
 Build-Depends: debhelper (>= 7.0.50), libglib2.0-dev, libpurple-dev
 Standards-Version: 3.8.4
-Homepage: https://github.com/davidgfnet/whatsapp-purple/
+Homepage: https://github.com/aftian/whatsapp-purple/
 
 Package: pidgin-whatsapp
 Architecture: any
